@@ -1,0 +1,305 @@
+body {
+    font-family: 'poppins', sans-serif;
+    margin: 0%;
+}
+
+.sec-1 {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, .9), rgba(215, 215, 230, 0.25)), url(images/donation11.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+
+}
+
+
+.text-center {
+    text-align: center;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+
+}
+
+.text-black60 {
+    font-size: 60px;
+}
+
+.Text-White50 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+
+
+}
+
+.Text-White18 {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.Donat-btn-1 {
+
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.904), rgb(128, 0, 70));
+    border-color: rgb(202, 7, 114);
+    box-shadow: 5px 5px 40px rgba(128, 0, 128, 0.39);
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+
+.sec-3 {
+    display: flex;
+    margin: 0% 20% 0% 20%;
+
+}
+
+.tk-box-g {
+    width: 100%;
+    height: 200px;
+    border-radius: 5px;
+    background-color: rgba(128, 128, 128, 0.568);
+    margin: 10% 1% 10% 1%;
+    text-align: center;
+    position: relative;
+
+
+}
+
+.tk-box-r {
+    width: 100%;
+    border: 3px solid red;
+    /* border: 2px; {we can use this also for border}
+    border-style: solid;
+    border-color: red; */
+    border-radius: 5px;
+    background-color: rgba(228, 139, 139, 0.589);
+    margin: 10% 1% 10% 1%;
+    text-align: center;
+    position: relative;
+
+}
+
+.grey-tk-text {
+    font-size: 50px;
+    color: grey;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.red-tk-text {
+    font-size: 50px;
+    color: red;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.Donat-btn-2 {
+
+    width: 150px;
+    height: 50px;
+    border-radius: 10px;
+    background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.904), rgb(128, 0, 70));
+    border-color: rgb(202, 7, 114);
+    box-shadow: 5px 5px 40px rgba(128, 0, 128, 0.39);
+
+}
+
+.sec-4 {
+    margin: 0% 20% 0% 20%;
+}
+
+.gap-30 {
+
+    margin-top: 30px;
+}
+
+.sec-5 {
+    margin-top: 100px;
+}
+
+.sec-5-1 {
+    display: flex;
+    margin: 5% 10% 0% 10%;
+}
+
+
+.sec-5-1 img {
+    margin-top: 30px;
+}
+
+.blue-fam-text {
+    color: gray;
+    background-color: rgba(0, 0, 255, 0.089);
+    border-radius: 5px;
+    margin: 15px;
+    padding: 20px;
+    width: 100%;
+    height: 400px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.pink-fam-text {
+    color: gray;
+    background-color: rgba(255, 192, 203, 0.301);
+    border-radius: 5px;
+    margin: 15px;
+    padding: 20px;
+    width: 100%;
+    height: 400px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.pinkk-fam-text {
+    color: gray;
+    background-color: rgba(255, 166, 0, 0.185);
+    border-radius: 5px;
+    margin: 15px;
+    padding: 20px;
+    width: 100%;
+    height: 400px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.flex-sec {
+    display: flex;
+    margin: 10%;
+    height: 500px;
+}
+
+.cont-btn {
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+    background-image: linear-gradient(360deg, rgba(255, 0, 0, 0.904), rgba(255, 166, 0, 0.322));
+    border-color: rgb(255, 0, 0);
+    box-shadow: 5px 5px 40px rgba(128, 0, 128, 0.39);
+
+}
+
+
+.half-row {
+    width: 100%;
+}
+
+.flex-sec-r {
+    border-radius: 20px;
+    margin: 5% 5% 10% 5%;
+
+
+}
+
+.flex-sec img {
+    width: 70%;
+    margin: 20px;
+
+
+}
+
+.flex-sec-l {
+    border-radius: 20px;
+    margin: 15% 5% 5% 5%;
+}
+
+
+.update-sec {
+
+    margin: 15% 0% 0% 0%;
+}
+
+
+.mail-sec {
+    background-color: rgba(255, 166, 0, 0.226);
+    margin: 5% 20% 10% 20%;
+    height: 250px;
+    border-radius: 30px 5px 40px 3px;
+    position: relative;
+}
+
+.center-item {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+.input-mail {
+    width: 400px;
+    height: 60px;
+    background-color: gray;
+    border: 0px;
+    border-radius: 10px 0px 0px 10px;
+    font-size: 20px;
+}
+
+::placeholder {
+    color: white;
+    text-align: left;
+    padding-left: 5%;
+}
+
+.scrb-btn {
+    width: 150px;
+    height: 61px;
+    background-color: tomato;
+    border: 0px;
+    border-radius: 0px 10px 10px 0px;
+    font-size: 20px;
+}
+
+.fot-sec {
+    margin: 5% 0% 0% 0%;
+    background-color: black;
+    height: 250px;
+    position: relative;
+}
+
+.fot-center {
+
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    color: orangered;
+
+}
+
+.gonna {
+    text-align: center;
+    color: white;
+    font-size: large;
+    padding-top: 180px;
+
+}
