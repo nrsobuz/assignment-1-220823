@@ -210,6 +210,32 @@ body {
 }
 
 
+.img4-sec {
+    display: flex;
+    margin: 5%;
+}
+
+.img4-sec div {
+    width: 100%;
+
+    margin: 1%;
+}
+
+.img4-sec img {
+    width: 100%;
+    border-radius: 20px;
+}
+
+.img-text {
+    text-decoration: none;
+    color: black;
+}
+
+.img-text:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
 .flex-sec {
     display: flex;
     margin: 10%;
